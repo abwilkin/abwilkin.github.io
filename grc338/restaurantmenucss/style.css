@@ -1,0 +1,46 @@
+@charset "UTF-8";
+/* CSS Document */
+
+h1 {
+	font: sans-serif;
+	font-size: 5em;
+	color: rgba(14,7,99,1.00);
+	margin: 1em;
+}
+
+h2 {
+	font: sans-serif;
+	font-size: 4em;
+	color: rgb(9, 37, 92);
+	margin: 1em;
+}
+
+h3 {
+	font: sans-serif;
+	font-size: 3em;
+	color: rgba(14,7,99,1.00);
+	margin: 1em;
+}
+
+li {
+	list-style: none;
+}
+
+ul {
+	padding: 0;
+}
+
+.desc {
+	font: sans-serif;
+	font-style: italic;
+	font-weight: lighter
+	color: rgb(114, 115, 114);
+	
+}
+
+.price {
+	font: sans-serif;
+	font-weight: lighter;
+	color: rgb(168, 168, 168);
+	margin-top: 1em;
+}
