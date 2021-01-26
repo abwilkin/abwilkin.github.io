@@ -18,6 +18,14 @@ h2 {
 h3 {
 	font: sans-serif;
 	font-size: 3em;
+	font-style: italic;
+	color: rgba(14,7,99,1.00);
+	margin: 1em;
+}
+
+h4 {
+	font: sans-serif;
+	font-size: 3em;
 	color: rgba(14,7,99,1.00);
 	margin: 1em;
 }
