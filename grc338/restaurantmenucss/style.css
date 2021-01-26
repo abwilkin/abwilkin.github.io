@@ -1,12 +1,10 @@
-@charset "UTF-8";
 /* CSS Document */
-
 
 h1 {
 	font: sans-serif;
 	font-size: 5em;
 	color: rgb(9, 37, 92);
-	margin: 1em;
+	margin-top: 1em;
 	padding: 0;
 }
 
@@ -14,7 +12,7 @@ h2 {
 	font: sans-serif;
 	font-size: 4em;
 	color: rgb(9, 37, 92);
-	margin: 1em;
+	margin-top: 1em;
 	padding: 0;
 }
 
@@ -23,7 +21,7 @@ h3 {
 	font-size: 3em;
 	font-style: italic;
 	color: rgb(9, 37, 92);
-	margin: 1em;
+	margin-top: 1em;
 	padding: 0;
 }
 
@@ -57,3 +55,5 @@ ul {
 	color: rgb(168, 168, 168);
 	margin-top: 1em;
 }
+
+background-color: rgb(255, 254, 219);
