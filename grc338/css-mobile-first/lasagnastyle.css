@@ -87,3 +87,21 @@ font-style: italic;
        color: rgb(94,94,94);
     margin:(0em,1.5em,1.5em,1.5em);
 }
+
+
+figure {
+        margin:(1.5em);
+
+}
+
+header {     
+    margin:(0em,1.5em,1.5em,1.5em);
+}
+
+main { 
+    margin:(0em,1.5em,1.5em,1.5em);
+}
+
+footer {
+        margin:(0em,1.5em,1.5em,1.5em);
+}
