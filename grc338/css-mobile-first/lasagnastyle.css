@@ -18,14 +18,14 @@ h1 {
 font-family: 'Bitter', serif;   
     font-weight: 500;
     color: rgb(94,94,94);
-    padding:(0em,1em,1em,1em);
+    margin:(0em,1em,1em,1em);
 }
 
 h2 {
 font-family: 'Bitter', serif;     
 font-style: italic;    
        color: rgb(94,94,94);
-     padding:(0em,1em,1em,1em);
+     margin:(0em,1em,1em,1em);
 
 }
 
@@ -79,4 +79,13 @@ li {
     font-family: 'Bitter', serif;     
         color: rgb(94,94,94);
     margin:(0em,1em,1em,1em);
+}
+
+
+figcaption {
+    
+    font-family: 'Bitter', serif;     
+font-style: italic;    
+       color: rgb(94,94,94);
+     margin:(0em,1em,1em,1em);
 }
