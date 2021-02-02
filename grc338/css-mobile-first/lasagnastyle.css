@@ -15,14 +15,14 @@ img {
 
 
 h1 {
-font-family: 'Bitter', serif;   
+font-family: "Bitter", serif;   
     font-weight: 500;
     color: rgb(94,94,94);
     margin:(0em,1em,1em,1em);
 }
 
 h2 {
-font-family: 'Bitter', serif;     
+font-family: "Bitter", serif;     
 font-style: italic;    
        color: rgb(94,94,94);
      margin:(0em,1em,1em,1em);
@@ -31,7 +31,7 @@ font-style: italic;
 
 
 h3 {
- font-family: 'Bitter', serif;     
+ font-family: "Bitter", serif;     
 font-style: italic;    
        color: rgb(94,94,94);
     margin:(0em,1em,1em,1em);
@@ -41,7 +41,7 @@ font-style: italic;
 
 
 h4 {
-font-family: 'Bitter', serif;     
+font-family: "Bitter", serif;     
 font-style: italic;    
      color: rgb(94,94,94);
      margin:(0em,1em,1em,1em);
@@ -50,7 +50,7 @@ font-style: italic;
 }
 
 h5 {
-font-family: 'Bitter', serif;     
+font-family: "Bitter", serif;     
 font-style: italic;    
         color: rgb(94,94,94);
     margin:(0em,1em,1em,1em);
@@ -59,7 +59,7 @@ font-style: italic;
 }
 
 h6 {
- font-family: 'Bitter', serif;     
+ font-family: "Bitter", serif;     
 font-style: italic;    
 font-size: 0.5em;   
         color: rgb(94,94,94);
@@ -68,7 +68,7 @@ font-size: 0.5em;
 }
 
 p {
-font-family: 'Bitter', serif;     
+font-family: "Bitter", serif;     
         color: rgb(94,94,94);
     margin:(0em,1em,1em,1em);
 
@@ -76,7 +76,7 @@ font-family: 'Bitter', serif;
 
 
 li {
-    font-family: 'Bitter', serif;     
+    font-family: "Bitter", serif;     
         color: rgb(94,94,94);
     margin:(0em,1em,1em,1em);
 }
@@ -84,7 +84,7 @@ li {
 
 figcaption {
     
-    font-family: 'Bitter', serif;     
+    font-family: "Bitter", serif;     
 font-style: italic;    
        color: rgb(94,94,94);
      margin:(0em,1em,1em,1em);
