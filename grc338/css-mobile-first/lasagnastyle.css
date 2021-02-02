@@ -18,20 +18,22 @@ img {
 h1 {
 font-family: 'Bitter', serif;   
     font-weight: 500;
-    
+    color: rgb(94,94,94);
 }
 
 h2 {
 font-family: 'Bitter', serif;     
 font-style: italic;    
-    
+       color: rgb(94,94,94);
+ 
 }
 
 
 h3 {
  font-family: 'Bitter', serif;     
 font-style: italic;    
-   
+       color: rgb(94,94,94);
+
     
 }
 
@@ -39,14 +41,16 @@ font-style: italic;
 h4 {
 font-family: 'Bitter', serif;     
 font-style: italic;    
-    
+     color: rgb(94,94,94);
+   
     
 }
 
 h5 {
 font-family: 'Bitter', serif;     
 font-style: italic;    
-    
+        color: rgb(94,94,94);
+
     
 }
 
@@ -54,10 +58,12 @@ h6 {
  font-family: 'Bitter', serif;     
 font-style: italic;    
 font-size: 0.5em;   
-    
+        color: rgb(94,94,94);
+
 }
 
 p {
 font-family: 'Bitter', serif;     
-    
+        color: rgb(94,94,94);
+
 }
