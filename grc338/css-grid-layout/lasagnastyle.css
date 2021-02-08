@@ -16,14 +16,14 @@ h1 {
 font-family: "Bitter", serif;   
     font-weight: 500;
     color: rgb(94,94,94);
-    margin: 0em, 1.5em, 1.5em, 1.5em;
+    margin: 0em,1.5em,1.5em,1.5em;
 }
 
 h2 {
 font-family: "Bitter", serif;     
 font-style: italic;    
        color: rgb(94,94,94);
-    margin: 0em, 1.5em, 1.5em, 1.5em;
+    margin: 0em,1.5em,1.5em,1.5em;
 
 }
 
@@ -32,7 +32,7 @@ h3 {
  font-family: "Bitter", serif;     
 font-style: italic;    
        color: rgb(94,94,94);
-    margin: 0em, 1.5em, 1.5em, 1.5em;
+    margin: 0em,1.5em,1.5em,1.5em;
 }
 
 
@@ -40,7 +40,7 @@ h4 {
 font-family: "Bitter", serif;     
 font-style: italic;    
      color: rgb(94,94,94);
-    margin: 0em, 1.5em, 1.5em, 1.5em;
+    margin: 0em,1.5em,1.5em,1.5em;
 
 }
 
@@ -48,7 +48,7 @@ h5 {
 font-family: "Bitter", serif;     
 font-style: italic;    
         color: rgb(94,94,94);
-    margin: 0em, 1.5em, 1.5em, 1.5em;
+    margin: 0em,1.5em,1.5em,1.5em;
 
     
 }
@@ -58,7 +58,7 @@ h6 {
 font-style: italic;    
 font-size: 0.5em;   
         color: rgb(94,94,94);
-    margin: 0em, 1.5em, 1.5em, 1.5em;
+    margin: 0em,1.5em,1.5em,1.5em;
 
 }
 
@@ -66,7 +66,7 @@ p {
 font-family: "Bitter", serif;
         font-weight: 300;
         color: rgb(94,94,94);
-    margin: 0em, 1.5em, 1.5em, 1.5em;
+    margin: 0em,1.5em,1.5em,1.5em;
 
 }
 
@@ -75,7 +75,7 @@ li {
     font-family: "Bitter", serif;     
               font-weight: 300;
   color: rgb(94,94,94);
-    margin: 0em, 1.5em, 1.5em, 1.5em;
+    margin: 0em,1.5em,1.5em,1.5em;
 }
 
 
@@ -84,7 +84,7 @@ figcaption {
     font-family: "Bitter", serif;     
 font-style: italic;    
        color: rgb(94,94,94);
-    margin: 0em, 1.5em, 1.5em, 1.5em;
+    margin: 0em,1.5em,1.5em,1.5em;
 }
 
 
@@ -94,13 +94,13 @@ figure {
 }
 
 header {     
-    margin: 0em, 1.5em, 1.5em, 1.5em;
+    margin: 0em,1.5em,1.5em,1.5em;
 }
 
 main { 
-    margin: 0em, 1.5em, 1.5em, 1.5em;
+    margin: 0em,1.5em,1.5em,1.5em;
 }
 
 footer {
-        margin: 0em, 1.5em, 1.5em, 1.5em;
+        margin: 0em,1.5em,1.5em,1.5em;
 }
