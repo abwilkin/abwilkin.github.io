@@ -52,7 +52,7 @@ figcaption {
 font-style: italic;    
        color: rgb(94,94,94);
     margin: 0em 1.5em 1.5em 1.5em;
-     grid-column: 3/4;
+     grid-column: 2/3;
 	grid-row: 2/3;
 
 
