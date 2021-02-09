@@ -35,14 +35,14 @@ footer {
 class.ingredients {
 
  grid-column: 1/2;
-grid-row-start: 3;
+grid-row: 3/4;
 
 }
 
 class.directions { 
 
 grid-column: 2/3;
-grid-row-start: 3;
+grid-row: 3/4;
 
 }
 
@@ -53,6 +53,8 @@ font-style: italic;
        color: rgb(94,94,94);
     margin: 0em 1.5em 1.5em 1.5em;
      grid-column: 2/3;
+	grid-row: 2/3;
+
 
 }
 
@@ -60,6 +62,7 @@ font-style: italic;
 figure {
         margin: 1.5em;
  grid-column: 1/2;
+	grid-row: 2/3;
 
 }
 
