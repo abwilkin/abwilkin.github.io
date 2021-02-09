@@ -35,7 +35,7 @@ footer {
 class.ingredients {
 
  grid-column: 1/3;
-grid-row-start: row3-start;
+grid-row: 3
 
 }
 
