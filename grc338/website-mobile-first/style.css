@@ -6,7 +6,7 @@ img {
     width: 100%; 
 }
 
-div.menu {
+nav ul {
     display: inline;
     text-decoration: none;
     list-style-type: none;
