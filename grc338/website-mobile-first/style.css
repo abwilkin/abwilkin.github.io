@@ -10,6 +10,7 @@ nav ul li {
     display: inline;
     text-decoration: none;
     list-style-type: none;
+    margin-right: 1em;
     font-family: "Work Sans";
     font-weight: 600;
     font-size: 1.5em;
