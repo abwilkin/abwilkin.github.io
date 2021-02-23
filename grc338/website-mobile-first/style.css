@@ -6,7 +6,7 @@ img {
 }
 
 h1 a {
-	width: 5em;
+	max-width: 5em;
 }
 
 nav ul {
