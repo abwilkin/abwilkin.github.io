@@ -5,7 +5,7 @@ img {
 	width: 100%;
 }
 
-h1 a {
+h1 {
 	max-width: 3em;
 }
 
@@ -72,6 +72,7 @@ p {
 	font-family: "Work Sans";
 	font-weight: 300;
 	color: #505050;
+	margin: 0;
 }
 
 li {
