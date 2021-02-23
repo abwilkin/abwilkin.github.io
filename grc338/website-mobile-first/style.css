@@ -25,15 +25,15 @@ ul {
     padding: 0;
 }
 
-h1, h2, h4, h5, h6 {
+h1, h2, h3 h4, h5 {
     font-family: "Work Sans";
     font-weight: 600;
 }
 
-h3 {
+h6 {
     font-family: "Work Sans";
     font-weight: 600;
-    font-size: 2em;
+    font-size: 1.5em;
 }
 
 p {
