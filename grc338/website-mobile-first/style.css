@@ -4,9 +4,10 @@ img {
     width: 100%; 
 }
 
-header {
+header.ul {
     display: inline;
     text-decoration: none;
+    list-style-type: none;
 }
 body {
     width: auto;
