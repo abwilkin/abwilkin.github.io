@@ -10,17 +10,24 @@ nav ul {
     padding: 0;
 }
 
-nav ul li {
+nav ul {
     display: inline;
     text-decoration: none;
     list-style-type: none;
-    margin-right: 1em;
     font-family: "Work Sans";
     font-weight: 600;
     font-size: 1.5em;
     margin-right: 1em;
-
 }
+
+nav ul li a {
+    color: #505050;
+}
+
+nav ul li a:hover {
+    color: #909090;
+}
+
 body {
     width: auto;
     max-width: 40em;
@@ -32,15 +39,15 @@ ul {
     padding: 0;
 }
 
-h1, h2, h3 h4, h5 {
+h1, h2, h4, h5, h6 {
     font-family: "Work Sans";
     font-weight: 600;
 }
 
-h6 {
+h3 {
     font-family: "Work Sans";
     font-weight: 600;
-    font-size: 1.5em;
+    font-size: 2em;
 }
 
 p {
