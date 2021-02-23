@@ -14,3 +14,8 @@ body {
     max-width: 40em;
 }
 
+ul {
+    list-style-type: none;
+    margin: 1em;
+    padding: 0;
+}
