@@ -10,7 +10,7 @@ div.menu {
     display: inline;
     text-decoration: none;
     list-style-type: none;
-    font-family: "Work+Sans";
+    font-family: "Work Sans";
     font-weight: 600;
     font-size: 1.5em;
 }
@@ -26,12 +26,12 @@ ul {
 }
 
 h1, h2, h4, h5, h6 {
-    font-family: "Work+Sans";
+    font-family: "Work Sans";
     font-weight: 600;
 }
 
 h3 {
-    font-family: "Work+Sans";
+    font-family: "Work Sans";
     font-weight: 600;
     font-size: 2em;
 }
