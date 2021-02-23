@@ -6,7 +6,7 @@ img {
     width: 100%; 
 }
 
-nav ul {
+nav ul li {
     display: inline;
     text-decoration: none;
     list-style-type: none;
