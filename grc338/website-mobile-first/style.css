@@ -39,7 +39,7 @@ ul {
     padding: 0;
 }
 
-h1, h2, h3, h4, h5 {
+h1, h2, h4, h5 {
     font-family: "Work Sans";
     font-weight: 600;
     color: #505050;
@@ -49,6 +49,14 @@ h6 {
     font-family: "Work Sans";
     font-weight: 600;
     font-size: 1.5em;
+    color: #505050;
+}
+
+
+h3 {
+    font-family: "Work Sans";
+    font-weight: 600;
+    font-size: 2em;
     color: #505050;
 }
 
