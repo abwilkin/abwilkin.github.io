@@ -81,20 +81,3 @@ li {
 	margin: 0;
 }
 
-@media screen and (min-width: 40em) {
-
-div.menu1 {
-display: grid;
-grid-template-columns: repeat(2, 1fr);
-}
-
-div.menu2 {
-display: grid;
-grid-template-columns: repeat(3, 1fr);
-}
-	
-	p {
-		color: #cc2c2c;
-	}	
-	
-}
