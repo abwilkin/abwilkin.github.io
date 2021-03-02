@@ -81,7 +81,7 @@ li {
 	margin: 0;
 }
 
-@media screen and(min-width: 40em) {
+@media screen and (min-width: 40em) {
 
 div.menu1 {
 display: grid;
