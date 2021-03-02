@@ -85,12 +85,14 @@ li {
 
 div.menu1 {
 display: grid;
-grid-template-columns: repeat(2, 1fr)
+grid-template-columns: repeat(2, 1fr);
 }
 
 div.menu2 {
 display: grid;
-grid-template-columns: repeat(3, 1fr)
+grid-template-columns: repeat(3, 1fr);
 }
+	
+font-color: #000000;	
 	
 }
