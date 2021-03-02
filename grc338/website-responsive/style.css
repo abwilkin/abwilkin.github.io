@@ -1,0 +1,82 @@
+/*CSS DOCUMENT*/
+
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,300;0,600;1,300;1,600&display=swap");
+img {
+	width: 100%;
+	margin: 0.25em;
+}
+
+h1 {
+	width: 5em;
+}
+
+nav ul {
+	padding: 0;
+	margin: 0;
+}
+
+nav ul li {
+	display: inline;
+	text-decoration: none;
+	list-style-type: none;
+	font-family: "Work Sans";
+	font-weight: 600;
+	font-size: 1.5em;
+	margin-right: 1em;
+}
+
+nav ul li a {
+	color: #505050;
+}
+
+nav ul li a:hover {
+	color: #909090;
+}
+
+body {
+	width: auto;
+	max-width: 60em;
+}
+
+ul {
+	list-style-type: none;
+	margin: 1em;
+	padding: 0;
+}
+
+h1,h2,h4,h5 {
+	font-family: "Work Sans";
+	font-weight: 600;
+	color: #505050;
+	margin: 0.5em, 0, 0, 0;
+}
+
+h6 {
+	font-family: "Work Sans";
+	font-weight: 600;
+	font-size: 1em;
+	color: #505050;
+	padding: 0;
+	margin: 0.5em, 0, 0, 0;
+}
+
+h3 {
+	font-family: "Work Sans";
+	font-weight: 600;
+	font-size: 2em;
+	color: #505050;
+	padding: 0;
+	margin: 0.5em, 0, 0, 0;
+}
+
+p {
+	font-family: "Work Sans";
+	font-weight: 300;
+	color: #505050;
+	margin: 0;
+}
+
+li {
+	padding: 0;
+	margin: 0;
+}
