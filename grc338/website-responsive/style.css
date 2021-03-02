@@ -93,7 +93,6 @@ display: grid;
 grid-template-columns: repeat(3, 1fr);
 }
 	
-	p {color: #000000;}	
+	p {color: #cc2c2c;}	
 	
 }
-
