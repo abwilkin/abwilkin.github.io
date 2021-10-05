@@ -44,22 +44,22 @@ h1, h2, h3, h4, p, ul, ol, li {
 }
 
 p, ul, ol, li {
- font-size: 1em; 
+    font-size: 1em; 
 	font-weight: normal;
 }
 
 h1 {
-	font-size: 3em; 
+	font-size: 2em; 
 	font-weight: 700;
 }
 
 h2 {
-	font-size: 3em; 
+	font-size: 1.75em; 
 	font-weight: 700;
     font-style: italic;
 }
 
 h3 {
-	font-size: 2em; 
+	font-size: 1.5em; 
 	font-weight: 700;
 }
