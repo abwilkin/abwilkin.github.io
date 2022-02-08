@@ -1,0 +1,59 @@
+/*CSS document*/
+@import url("https://use.typekit.net/bqi0ysh.css");
+
+body {
+     font-family: puffin-display-soft, sans-serif;
+     font-style: normal;
+     font-weight: 500;
+}
+
+h1 {
+    font-family: teeshirt, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 2em;
+}
+
+h2 {
+    font-family: teeshirt, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.75em;
+}
+
+h3{
+    font-family: teeshirt, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.25em;
+}
+
+div.container {
+    max-width: 40em;
+    margin: auto;
+}
+
+figure {
+    margin: 0;
+}
+
+img {
+    width: 100%;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.mainstory {
+
+}
+
+.imagestory {
+
+}
+
+.blankstory {
+
+}
