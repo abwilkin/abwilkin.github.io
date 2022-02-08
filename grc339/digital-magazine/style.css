@@ -34,18 +34,18 @@ h3{
 }
 
 a:link {
-    color: #8ABE50;
+    color: #4A3207;
     text-decoration: none;
 }
 
 a:visited {
-    color: #E77117;
+    color: #4A3207;
     text-decoration: none;
 }
 a:hover {
-    color: #FDAC46;
+    color: #4A3207;
+    text-decoration: underline;
 }
-
 
 div.container {
     max-width: 40em;
