@@ -5,13 +5,16 @@ body {
      font-family: puffin-display-soft, sans-serif;
      font-style: normal;
      font-weight: 500;
-}
+     font-color: #4A3207;
+     background-color: #F8F5E6;
+    }
 
 h1 {
     font-family: teeshirt, sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 2em;
+    color: #4A3207;
 }
 
 h2 {
@@ -19,6 +22,7 @@ h2 {
     font-style: normal;
     font-weight: 400;
     font-size: 1.75em;
+    color: #4A3207;
 }
 
 h3{
@@ -26,7 +30,22 @@ h3{
     font-style: normal;
     font-weight: 400;
     font-size: 1.25em;
+    color: #4A3207;
 }
+
+a:link {
+    color: #8ABE50;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #E77117;
+    text-decoration: none;
+}
+a:hover {
+    color: #FDAC46;
+}
+
 
 div.container {
     max-width: 40em;
@@ -43,17 +62,32 @@ img {
 
 ul {
     list-style-type: none;
-    padding: 0;
+    padding: 0 0 3em 0;
+}
+
+li {
+    font-family: puffin-display-soft, sans-serif;
+    font-style: normal;
+    font-weight: 700;  
+    float: left;
+    padding-right: 1em;
+}
+
+figcaption {
+    font-family: puffin-display-soft, sans-serif;
+     font-style: italic;
+     font-weight: 300;
+     font-color: #4A3207;
+     font-size: 0.75em;
 }
 
 .mainstory {
-
 }
 
 .imagestory {
-
+    margin-top: 5em;
 }
 
 .blankstory {
-
+    margin-top: 5em;
 }
