@@ -6,7 +6,7 @@
       <meta charset="UTF-8" />
       <meta name="viewport" content="width=device-width, initial-scale=1" />
       <link rel="stylesheet" type="text/css" href="style.css">
-      <title>Plantiful</title>
+      <title>Plantiful Photo Gallery</title>
       <!-- Helpful meta tags to fight GitHub aggresive caching-->
       <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
       <meta http-equiv="Pragma" content="no-cache" />
@@ -68,109 +68,71 @@
                   </ul>
             </nav>
          </header>
+         <input type="radio" name="item" id="photo1" checked="checked">
+         <input type="radio" name="item" id="photo2">
+         <input type="radio" name="item" id="photo3">
+         <input type="radio" name="item" id="photo4">
+         <input type="radio" name="item" id="photo5">
+         <input type="radio" name="item" id="photo6">
+         <input type="radio" name="item" id="photo7">
          <main>
-         <section class="mainstory">
-         <a href="mainstory.html">
-         <figure>
-         <div><img src="images/vegetable_soup.JPG" alt="A bowl of vegetable soup, topped with olives and shredded Parmesan, and served with a slice of bread."></div>
-         </figure>
-         <h4>Vegetable Soup</h4>
-         <p>Simple and delicious vegetable soup in a minestrone-inspired tomato broth.</p>
-         </a>
-         </section>
-         <section class="imagestory">
-         <a href="#">
-         <figure>
-         <img src="images/cala-w6ftFbPCs9I-unsplash.jpg" alt="A bowl of soup.">
-         </figure>
-         <h4>Lentil Sweet Potato Soup</h4>
-         <p>Sweet and hearty soup, perfect when paired with a thick slice of artisan bread.</p>
-         </a>
-         </section>
-         <section class="imagestory">
-         <a href="#">
-         <figure>
-         <img src="images/ben-lei-flFd8L7_B3g-unsplash.jpg" alt="A bowl of pasta with tomato sauce.">
-         </figure>
-         <h4>Rosemary Tomato Pasta</h4>
-         <p>This pasta's creamy, flavorful, protein-packed sauce is a breeze to make.</p>
-         </a>
-         </section>
-         <section class="imagestory">
-         <a href="#">
-         <figure>
-         <img src="images/sonny-mauricio-yhc4pSbl01A-unsplash.jpg" alt="Quinoa salad.">
-         </figure>
-         <h4>Mango Chutney and Black Bean Quinoa Salad</h4>
-         <p>Spicy, sweet, and savory come together in the perfect blend of flavor in this delicious salad.</p>
-         </a>
-         </section>
-         <section class="imagestory">
-         <a href="#">
-         <figure>
-         <img src="images/deryn-macey-kPLccIMtS8E-unsplash.jpg" alt="A black bean burger.">
-         </figure>
-         <h4>Black Bean Burger Patties</h4>
-         <p>A classic staple vegetarian recipe, easily customizable to your own tastes to yield a uniquely perfect burger.</p>
-         </a>
-         </section>
-         <section class="imagestory">
-         <a href="#">
-         <figure>
-         <img src="images/viviana-rishe-q70dT-fiZ4s-unsplash.jpg" alt="A butternut squash, chopped in two halves.">
-         </figure>
-         <h4>Butternut Squash with Candied Pecans</h4>
-         <p>This sweet roasted squash is a delightful way to bring autumn flavors to the dinner table.</p>
-         </a>
-         </section>
-         <section class="imagestory">
-         <a href="#">
-         <figure>
-         <img src="images/engin-akyurt-X4QCAodTlh0-unsplash.jpg" alt="Pasta salad with tomatoes.">
-         </figure>
-         <h4>Tomato Pasta Salad</h4>
-         <p>This tangy salad with a kick of spice is bursting at the seams with flavor!</p>
-         </a>
-         </section>
-         <section class="imagestory">
-         <a href="photogallery.html">
-         <figure>
+         <section class="photogallery">
+         <figure class="photogallery">
          <img src="images/vegetable_soup.JPG" alt="A bowl of vegetable soup, topped with olives and shredded Parmesan, and served with a slice of bread.">
+         <figcaption>Vegetable Soup</figcaption>
          </figure>
-         <h4>Photo Gallery</h4>
-         <p>View images of the finished products of all the recipes.</p>
-         </a>
+         <figure class="photogallery">
+         <img src="images/cala-w6ftFbPCs9I-unsplash.jpg" alt="A bowl of soup."> 
+         <figcaption>Lentil Sweet Potato Soup</figcaption>
+         </figure>
+         <figure class="photogallery">
+         <img src="images/ben-lei-flFd8L7_B3g-unsplash.jpg" alt="A bowl of pasta with tomato sauce.">
+         <figcaption>Rosemary Tomato Pasta</figcaption>
+         </figure>
+         <figure class="photogallery">
+         <img src="images/sonny-mauricio-yhc4pSbl01A-unsplash.jpg" alt="Quinoa salad.">
+         <figcaption>Mango Chutney and Black Bean Quinoa Salad</figcaption>
+         </figure>
+         <figure class="photogallery">
+         <img src="images/deryn-macey-kPLccIMtS8E-unsplash.jpg" alt="A black bean burger.">
+         <figcaption>Black Bean Burger Patties</figcaption>
+         </figure>
+         <figure class="photogallery">
+         <img src="images/viviana-rishe-q70dT-fiZ4s-unsplash.jpg" alt="A butternut squash, chopped in two halves.">
+         <figcaption>Butternut Squash with Candied Pecans</figcaption>
+         </figure>
+         <figure class="photogallery">
+         <img src="images/engin-akyurt-X4QCAodTlh0-unsplash.jpg" alt="Pasta salad with tomatoes.">
+         <figcaption>Tomato Pasta Salad</figcaption>
+         </figure>
          </section>
+         <nav class="photogallery">
+         <section class="photonav"><label for="photo1">
+         <img src="images/vegetable_soup.JPG" alt="A bowl of vegetable soup, topped with olives and shredded Parmesan, and served with a slice of bread.">
+         </label></section>
+         <section class="photonav"><label for="photo2">
+         <img src="images/cala-w6ftFbPCs9I-unsplash.jpg" alt="A bowl of soup.">   
+         </label></section>
+         <section class="photonav"><label for="photo3">
+         <img src="images/ben-lei-flFd8L7_B3g-unsplash.jpg" alt="A bowl of pasta with tomato sauce.">
+         </label></section>
+         <section class="photonav"><label for="photo4">
+         <img src="images/sonny-mauricio-yhc4pSbl01A-unsplash.jpg" alt="Quinoa salad.">
+         </label></section>
+         <section class="photonav"><label for="photo5">
+         <img src="images/deryn-macey-kPLccIMtS8E-unsplash.jpg" alt="A black bean burger.">   
+         </label></section>
+         <section class="photonav"><label for="photo6">
+         <img src="images/viviana-rishe-q70dT-fiZ4s-unsplash.jpg" alt="A butternut squash, chopped in two halves.">
+         </label></section>
+         <section class="photonav"><label for="photo7">
+         <img src="images/engin-akyurt-X4QCAodTlh0-unsplash.jpg" alt="Pasta salad with tomatoes.">
+         </label></section>
+         </nav>
          </main>
-         <aside>
-         <section class="blankstory">
-         <a href="#">
-         <h4>Sweet Potato Quinoa Chili</h4>
-         <p>Let this savory chili warm you up inside. Perfect paired with avocado, sour cream, or cornbread!</p>
-         </a>
-         </section>
-         <section class="blankstory">
-         <a href="#">
-         <h4>Smoked Paprika Cauliflower and Lime Quinoa Salad</h4>
-         <p>This delectable roasted cauliflower is an easy yet luxurious veggie dish, and the lime finishes it off to make a great salad.</p>
-         </a>
-         </section>
-         <section class="blankstory">
-         <a href="#">
-         <h4>Simple Pasta Salad</h4>
-         <p>This light salad, full of veggies and flavored with cumin, makes a fantastic lunch!</p>
-         </a>
-         </section>
-         <section class="blankstory">
-         <a href="newsletter.html">
-         <h4>Newsletter</h4>
-         <p>Sign up for the Plantiful newsletter.</p></a>
-         </section>
-         </aside>
          <footer>
          <p> All rights reserved.</p>
          </footer>
       </div>
    </body>
 </html>
-

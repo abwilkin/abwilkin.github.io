@@ -1,0 +1,95 @@
+
+
+<!doctype html>
+<html>
+   <head>
+      <meta charset="UTF-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1" />
+      <link rel="stylesheet" type="text/css" href="style.css">
+      <title>Plantiful Newsletter</title>
+      <!-- Helpful meta tags to fight GitHub aggresive caching-->
+      <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+      <meta http-equiv="Pragma" content="no-cache" />
+      <meta http-equiv="Expires" content="0" />
+   </head>
+   <body>
+      <div class="container">
+         <header>
+            <h1>
+               <img src="images/plantiful_logo.png" alt="Logo of Plantiful.">
+            </h1>
+            <nav>
+               <ul>
+               <li>
+                  <div class="dropdown">
+                     <h3>Soups</h3>
+                     <div class="dropdown-content">
+                        <ul>
+                           <li><a href="#">Vegetable soup</a></li>
+                           <li><a href="#">Sweet potato lentil soup</a></li>
+                           <li><a href="#">Sweet potato quinoa chili</a></li>
+                        </ul>
+                     </div>
+                  </div>
+               </li>
+               <li>
+                  <div class="dropdown">
+                     <h3>Pasta Dishes</h3>
+                     <div class="dropdown-content">
+                        <ul>
+                           <li><a href="#">Rosemary Tomato Pasta</a></li>
+                           <li><a href="#">Tomato Pasta Salad</a></li>
+                           <li><a href="#">Simple Pasta Salad</a></li>
+                        </ul>
+                     </div>
+                  </div>
+               </li>
+               <li>
+                  <div class="dropdown">
+                     <h3>Quinoa Salads</h3>
+                     <div class="dropdown-content">
+                        <ul>
+                           <li><a href="#">Mango Chutney and Black Bean Quinoa Salad</a></li>
+                           <li><a href="#">Smoked Paprika Cauliflower and Lime Quinoa Salad</a></li>
+                        </ul>
+                     </div>
+                  </div>
+               </li>
+               <li>
+                  <div class="dropdown">
+                     <h3>Other Delights</h3>
+                     <div class="dropdown-content">
+                        <ul>
+                           <li><a href="#">Black Bean Burger Patties</a></li>
+                           <li><a href="#">Butternut Squash with Candied Pecans</a></li>
+                     </div>
+                  </div>
+                  </li>
+                  </ul>
+            </nav>
+         </header>
+         <main>
+         <form>
+         <section class="newsletter-form"><h4>Subscribe to our newsletter!</h4>
+         <ul>
+         <li><label for="field-1">Name:</label> <input type="text" name="field-1" id="field-1" placeholder="Name" /></li>
+         <li><label for="field-2">Email address:</label> <input type="text" name="field-2" id="field-2" placeholder="Email" /></li>
+         </ul></section>
+         <section class="newsletter-checkbox"><h4>What kinds of email would you like to receive?</h4>
+         <ul> 
+         <li><input type="checkbox" id="newrecipes" value="newrecipes" /> <label for="newrecipes">New recipes</label></li>
+         <li><input type="checkbox" id="vegan" value="vegan" /> <label for="vegan">Vegan recipes</label></li>
+         <li><input type="checkbox" id="tips" value="tips" /> <label for="tips">Cooking tips</label></li>
+         <li><input type="checkbox" id="blog" value="blog" /> <label for="blog">Blog posts</label></li>
+         <li><input type="checkbox" id="everything" value="everything" /> <label for="everything">All of the above!</label></li>
+         </ul>
+         </section>
+         </form>
+         </main>
+         <footer>
+         <p> All rights reserved.</p>
+         </footer>
+      </div>
+   </body>
+</html>
+
